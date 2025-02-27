@@ -1,0 +1,38 @@
+.f {
+    display: flex;
+    justify-content: space-around;
+}
+.w-20 {
+    width: 20%;
+}
+.me-10{
+    margin-right: 30px;
+}
+.ps-10{
+    padding-left: 10px;
+}
+.a {
+    text-decoration: none;
+    color: black;
+}
+.t-b {
+    font-weight: bold;
+}
+.ms-50 {
+    margin-left: 50px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.a-hover:hover{
+    color: white;
+}
+.mb-100 {
+    margin-bottom: 100px;
+}
+.mt-100 {
+    margin-top: 100px;
+}
+.margin {
+    margin: 100px;
+}
